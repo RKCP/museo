@@ -1,2 +1,2 @@
 # museo
-An art gallery app. 🎨
+Just a museum app.
